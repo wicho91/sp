@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 ,TUDN
+https://chinofree.000webhostapp.com/live/fran.php/20
+#EXTINF:-1 ,movistar la liga
+http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
+#EXTINF:-1 ,AFIZZIONADOS 
+https://chinofree.000webhostapp.com/live/fran.php/36
+#EXTINF:-1 ,FOX SPORT 1
+https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORTS/hls/index.m3u8
+#EXTINF:-1 ,FOX SPORT 2
+https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORT2/hls/index.m3u8
